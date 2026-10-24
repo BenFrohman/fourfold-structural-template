@@ -18,3 +18,7 @@ limitations under the License.
 
 # fourfold-structural-template
 Locked fourfold lemmas: L iff Delta_miss empty; L does not imply Delta_Hdg empty. Not a Hodge disproof.
+
+## License
+
+Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under the Apache License, Version 2.0 (see [`LICENSE`](LICENSE) and [`NOTICE`](NOTICE)).
