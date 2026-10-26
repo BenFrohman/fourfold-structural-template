@@ -1,0 +1,16 @@
+{
+  "schema": "titan-audit-v1.0",
+  "repository": "BenFrohman/fourfold-structural-template",
+  "doi": "10.5281/zenodo.23652996",
+  "author": "Benjamin Stanley Frohman",
+  "orcid": "0009-0006-7068-3718",
+  "license": "Apache-2.0",
+  "timestamp_cdt": "2026-10-25T19:10:00-05:00",
+  "lean_module_count": 0,
+  "sorry_count": 0,
+  "modules": [],
+  "verdict": "PASS_ZERO_SORRY_HONEST_BOUNDARY",
+  "payload_sha256": "fcf56054539d13ac862450deb0c81bdaeefe245ba7000b891e65a1cc1d2edc7d",
+  "ed25519_key_fingerprint": "b428fb72676f1c52",
+  "ed25519_signature": "71dd4357453cd4bac6163519b595132fbe50572c734dfdfbdb1a92ae6d3e376c79138fe184bdb093eefd2297d41c889246bb5f76dfa6102faafb6ca9c5d27e06"
+}

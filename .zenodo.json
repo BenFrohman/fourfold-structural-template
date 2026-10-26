@@ -1,0 +1,27 @@
+{
+  "title": "Fourfold Structural Template: Locked Lemmas Comparing Missing-Sector Defect Delta_miss and Hodge Defect Delta_Hdg",
+  "upload_type": "publication",
+  "description": "Standalone mathematical specification (`README.md`, `INTEGRAL_HODGE.md`) proving the locked structural equivalence L <-> (Delta_miss = empty) for candidate cycle-spanning submodules on projective fourfolds, and establishing why L does not imply vanishing of the ambient Hodge defect Delta_Hdg = empty. Establishes logical boundary lemmas showing why local span closure L neither proves nor disproves the rational Hodge Conjecture. Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under the Apache License, Version 2.0.",
+  "creators": [
+    {
+      "name": "Frohman, Benjamin Stanley",
+      "orcid": "0009-0006-7068-3718"
+    }
+  ],
+  "license": "Apache-2.0",
+  "access_right": "open",
+  "keywords": [
+    "Projective fourfolds",
+    "Hodge defect",
+    "Cycle class map",
+    "Integral vs rational Hodge",
+    "Locked structural lemmas"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/BenFrohman/fourfold-structural-template",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

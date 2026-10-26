@@ -1,0 +1,65 @@
+{
+  "schema": "sealguard-merkle-provenance-v1.0",
+  "repository": "BenFrohman/fourfold-structural-template",
+  "doi": "10.5281/zenodo.23652996",
+  "author": "Benjamin Stanley Frohman",
+  "orcid": "0009-0006-7068-3718",
+  "license": "Apache-2.0",
+  "timestamp_cdt": "2026-10-25T19:10:00-05:00",
+  "merkle_root_sha256": "179f79ea43361421cbbda9cf9b236c80afe5b5d16bb06a009462e56daf538b1e",
+  "ed25519_key_fingerprint": "b428fb72676f1c52",
+  "ed25519_signature": "8177e1cd1b85b69ac9f5d523efb7e198337c38a8aae6cddf6b007cce212b485696dee9bd305f32d916f3a1791c2f9e801396acc9da8886c17d7c2da3f26afd00",
+  "leaf_count": 10,
+  "leaves": [
+    {
+      "path": ".zenodo.json",
+      "sha256": "4369bdb29535e0770f3e74fb669e1fc7d8ead75360201b19d0092a2c606a2dcf",
+      "bytes": 1214
+    },
+    {
+      "path": "AUTHORS.md",
+      "sha256": "1732529c9d516b14378c2ea60b7a29a9dd01385bb5f302efa163c42b3dceb130",
+      "bytes": 320
+    },
+    {
+      "path": "CITATION.cff",
+      "sha256": "68c84db23029bdee7adcdb905050bacc15b53891d309e5b9594841711f88bec2",
+      "bytes": 637
+    },
+    {
+      "path": "INTEGRAL_HODGE.md",
+      "sha256": "c6fe3e450027883617cd8f0c19a4cd064538ee31e5731fbcd3e94916edd278f8",
+      "bytes": 1360
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "ec43eec7417d548fb78a8dc50830f1d854b91a89c2daf0d4e957601515c15e87",
+      "bytes": 10773
+    },
+    {
+      "path": "NOTICE",
+      "sha256": "474974c3f93dadcaaf1e814652250be4bb1ae5650aa057c40c75ae594ce5cf05",
+      "bytes": 618
+    },
+    {
+      "path": "README.md",
+      "sha256": "a7a7d61aa17bfc43063d3678e3799191ca06f664f5b04e0fc6736df5bf91b7fb",
+      "bytes": 1946
+    },
+    {
+      "path": "audit/TITAN_AUDIT_CERTIFICATE.json",
+      "sha256": "f445a963f9b568e6760d05768f0ff58c8fbc318637ed01cf5473e1d0e8bc2a2c",
+      "bytes": 682
+    },
+    {
+      "path": "paper/fourfold_structural_template_Technical_Monograph_2026.pdf",
+      "sha256": "51c29151a3172dc81ba1f66a28f3391643b027614ccf480320749c3e6b351468",
+      "bytes": 45932
+    },
+    {
+      "path": "paper/fourfold_structural_template_Technical_Monograph_2026.tex",
+      "sha256": "b447754e07c7eb2cd63c9eeebd2eee90568eb436b0c4329a05248658d33ef8de",
+      "bytes": 3299
+    }
+  ]
+}

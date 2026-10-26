@@ -1,0 +1,13 @@
+{
+  "schema": "sealguard-manifest-v1.0",
+  "repository": "BenFrohman/fourfold-structural-template",
+  "doi": "10.5281/zenodo.23652996",
+  "author": "Benjamin Stanley Frohman",
+  "orcid": "0009-0006-7068-3718",
+  "license": "Apache-2.0",
+  "public_surface_policy": "VERIFIED_PUBLIC_SURFACE_ONLY",
+  "classified_ip_redaction": "ACTIVE_ZERO_LEAKAGE",
+  "merkle_root_sha256": "179f79ea43361421cbbda9cf9b236c80afe5b5d16bb06a009462e56daf538b1e",
+  "ed25519_key_fingerprint": "b428fb72676f1c52",
+  "ed25519_signature": "8177e1cd1b85b69ac9f5d523efb7e198337c38a8aae6cddf6b007cce212b485696dee9bd305f32d916f3a1791c2f9e801396acc9da8886c17d7c2da3f26afd00"
+}
