@@ -40,3 +40,7 @@ Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under the Apache License, 
 
 - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23652995.svg)](https://doi.org/10.5281/zenodo.23652995) Fourfold Structural Template: Locked Lemmas Comparing Missing-Sector Defect Delta_miss and Hodge Defect Delta_Hdg — all versions: [10.5281/zenodo.23652995](https://doi.org/10.5281/zenodo.23652995); latest version: [10.5281/zenodo.23652996](https://doi.org/10.5281/zenodo.23652996)
 - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23867527.svg)](https://doi.org/10.5281/zenodo.23867527) Fourfold Structural Template: Locked Lemmas Comparing Missing-Sector Defect Delta_miss and Hodge Defect Delta_Hdg — all versions: [10.5281/zenodo.23867527](https://doi.org/10.5281/zenodo.23867527); latest version: [10.5281/zenodo.23867528](https://doi.org/10.5281/zenodo.23867528)
+
+## Citation
+
+Cite this work with [`CITATION.cff`](CITATION.cff) (GitHub's "Cite this repository" button). Zenodo DOI: [10.5281/zenodo.23652996](https://doi.org/10.5281/zenodo.23652996).
